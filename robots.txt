@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://photonfactory.shop/sitemap.xml
